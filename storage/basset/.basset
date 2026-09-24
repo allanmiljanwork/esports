@@ -316,5 +316,125 @@
         "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\vendor/backpack/basset/tests/Helpers/basset-test.js",
         "asset_disk_path": "basset/vendor/backpack/basset/tests/Helpers/basset-test.js",
         "asset_attributes": []
+    },
+    "backpack/crud/buttons/delete-button.js": {
+        "asset_name": "backpack/crud/buttons/delete-button.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/buttons/delete-button.js",
+        "asset_disk_path": "basset/backpack/crud/buttons/delete-button-4e86f1f5.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/buttons/quick-button.js": {
+        "asset_name": "backpack/crud/buttons/quick-button.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/buttons/quick-button.js",
+        "asset_disk_path": "basset/backpack/crud/buttons/quick-button-42417564.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/operations/list/bulk-actions-checkbox.js": {
+        "asset_name": "backpack/crud/operations/list/bulk-actions-checkbox.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/operations/list/bulk-actions-checkbox.js",
+        "asset_disk_path": "basset/backpack/crud/operations/list/bulk-actions-checkbox-04d043b1.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/checkbox-field.js": {
+        "asset_name": "backpack/crud/fields/checkbox-field.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/checkbox-field.js",
+        "asset_disk_path": "basset/backpack/crud/fields/checkbox-field-fb2f1b87.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/checklist-field.js": {
+        "asset_name": "backpack/crud/fields/checklist-field.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/checklist-field.js",
+        "asset_disk_path": "basset/backpack/crud/fields/checklist-field-700ca04f.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/checklist-dependency-field.js": {
+        "asset_name": "backpack/crud/fields/checklist-dependency-field.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/checklist-dependency-field.js",
+        "asset_disk_path": "basset/backpack/crud/fields/checklist-dependency-field-82d5eb92.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/color.css": {
+        "asset_name": "backpack/crud/fields/color.css",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/color.css",
+        "asset_disk_path": "basset/backpack/crud/fields/color-668fc406.css",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/color.js": {
+        "asset_name": "backpack/crud/fields/color.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/color.js",
+        "asset_disk_path": "basset/backpack/crud/fields/color-0f0331ad.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/radio-field.js": {
+        "asset_name": "backpack/crud/fields/radio-field.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/radio-field.js",
+        "asset_disk_path": "basset/backpack/crud/fields/radio-field-c6d473e7.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/range-field.css": {
+        "asset_name": "backpack/crud/fields/range-field.css",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/range-field.css",
+        "asset_disk_path": "basset/backpack/crud/fields/range-field-46de6e9b.css",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/range-field.js": {
+        "asset_name": "backpack/crud/fields/range-field.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/range-field.js",
+        "asset_disk_path": "basset/backpack/crud/fields/range-field-48c3ddd3.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/summernote-field.css": {
+        "asset_name": "backpack/crud/fields/summernote-field.css",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/summernote-field.css",
+        "asset_disk_path": "basset/backpack/crud/fields/summernote-field-f237af2d.css",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/summernote-field.js": {
+        "asset_name": "backpack/crud/fields/summernote-field.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/summernote-field.js",
+        "asset_disk_path": "basset/backpack/crud/fields/summernote-field-588eb0ba.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/switch-field.js": {
+        "asset_name": "backpack/crud/fields/switch-field.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/switch-field.js",
+        "asset_disk_path": "basset/backpack/crud/fields/switch-field-0b3637a5.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/switch-field.css": {
+        "asset_name": "backpack/crud/fields/switch-field.css",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/switch-field.css",
+        "asset_disk_path": "basset/backpack/crud/fields/switch-field-1920b81b.css",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/upload-field.css": {
+        "asset_name": "backpack/crud/fields/upload-field.css",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/upload-field.css",
+        "asset_disk_path": "basset/backpack/crud/fields/upload-field-a2a6cc4b.css",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/upload-field.js": {
+        "asset_name": "backpack/crud/fields/upload-field.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/upload-field.js",
+        "asset_disk_path": "basset/backpack/crud/fields/upload-field-dc2748fd.js",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/upload-multiple-field.css": {
+        "asset_name": "backpack/crud/fields/upload-multiple-field.css",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/upload-multiple-field.css",
+        "asset_disk_path": "basset/backpack/crud/fields/upload-multiple-field-617744f1.css",
+        "asset_attributes": []
+    },
+    "backpack/crud/fields/upload-multiple-field.js": {
+        "asset_name": "backpack/crud/fields/upload-multiple-field.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\backpack/crud/fields/upload-multiple-field.js",
+        "asset_disk_path": "basset/backpack/crud/fields/upload-multiple-field-0b9d9a6e.js",
+        "asset_attributes": []
+    },
+    "tabler-menu-javascript.js": {
+        "asset_name": "tabler-menu-javascript.js",
+        "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\tabler-menu-javascript.js",
+        "asset_disk_path": "basset/tabler-menu-javascript-a4deab70.js",
+        "asset_attributes": []
     }
 }
