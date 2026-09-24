@@ -436,5 +436,11 @@
         "asset_path": "C:\\Users\\Allan\\OneDrive\\Desktop\\websites\\esports\\tabler-menu-javascript.js",
         "asset_disk_path": "basset/tabler-menu-javascript-a4deab70.js",
         "asset_attributes": []
+    },
+    "https://www.gravatar.com/avatar/a3c9539d6c781a797ccd332cd20aa9b3d3409e0903d3ef191d917f8ab24dac75.jpg?s=80&d=blank&r=g": {
+        "asset_name": "https://www.gravatar.com/avatar/a3c9539d6c781a797ccd332cd20aa9b3d3409e0903d3ef191d917f8ab24dac75.jpg?s=80&d=blank&r=g",
+        "asset_path": "https://www.gravatar.com/avatar/a3c9539d6c781a797ccd332cd20aa9b3d3409e0903d3ef191d917f8ab24dac75.jpg?s=80&d=blank&r=g",
+        "asset_disk_path": "basset/www.gravatar.com/avatar/a3c9539d6c781a797ccd332cd20aa9b3d3409e0903d3ef191d917f8ab24dac75.jpg",
+        "asset_attributes": []
     }
 }
