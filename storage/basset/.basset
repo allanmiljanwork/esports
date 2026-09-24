@@ -442,5 +442,11 @@
         "asset_path": "https://www.gravatar.com/avatar/a3c9539d6c781a797ccd332cd20aa9b3d3409e0903d3ef191d917f8ab24dac75.jpg?s=80&d=blank&r=g",
         "asset_disk_path": "basset/www.gravatar.com/avatar/a3c9539d6c781a797ccd332cd20aa9b3d3409e0903d3ef191d917f8ab24dac75.jpg",
         "asset_attributes": []
+    },
+    "https://www.gravatar.com/avatar/baf5c0a66321eb0d9697c4091755398b9ea4bbd3523c6c0581eb04f49ef45775.jpg?s=80&d=blank&r=g": {
+        "asset_name": "https://www.gravatar.com/avatar/baf5c0a66321eb0d9697c4091755398b9ea4bbd3523c6c0581eb04f49ef45775.jpg?s=80&d=blank&r=g",
+        "asset_path": "https://www.gravatar.com/avatar/baf5c0a66321eb0d9697c4091755398b9ea4bbd3523c6c0581eb04f49ef45775.jpg?s=80&d=blank&r=g",
+        "asset_disk_path": "basset/www.gravatar.com/avatar/baf5c0a66321eb0d9697c4091755398b9ea4bbd3523c6c0581eb04f49ef45775.jpg",
+        "asset_attributes": []
     }
 }
